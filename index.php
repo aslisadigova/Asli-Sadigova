@@ -5,5 +5,7 @@
 
     print $a + $b;
 
+    print "Hello!";
+
 
 ?>
